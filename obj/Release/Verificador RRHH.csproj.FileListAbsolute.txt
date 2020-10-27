@@ -1,0 +1,11 @@
+C:\Users\Wila Wara\source\repos\Verificador RRHH\bin\Release\Verificador RRHH.exe.config
+C:\Users\Wila Wara\source\repos\Verificador RRHH\bin\Release\Verificador RRHH.exe
+C:\Users\Wila Wara\source\repos\Verificador RRHH\bin\Release\Verificador RRHH.pdb
+C:\Users\Wila Wara\source\repos\Verificador RRHH\obj\Release\Verificador RRHH.csprojAssemblyReference.cache
+C:\Users\Wila Wara\source\repos\Verificador RRHH\obj\Release\Verificador RRHH.csproj.ResolveComReference.cache
+C:\Users\Wila Wara\source\repos\Verificador RRHH\obj\Release\Verificador_RRHH.Form1.resources
+C:\Users\Wila Wara\source\repos\Verificador RRHH\obj\Release\Verificador_RRHH.Properties.Resources.resources
+C:\Users\Wila Wara\source\repos\Verificador RRHH\obj\Release\Verificador RRHH.csproj.GenerateResource.cache
+C:\Users\Wila Wara\source\repos\Verificador RRHH\obj\Release\Verificador RRHH.csproj.CoreCompileInputs.cache
+C:\Users\Wila Wara\source\repos\Verificador RRHH\obj\Release\Verificador RRHH.exe
+C:\Users\Wila Wara\source\repos\Verificador RRHH\obj\Release\Verificador RRHH.pdb
